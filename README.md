@@ -11,8 +11,6 @@ Based on a tutorial by 'code commerence' channel in Youtube [Tutorial](https://w
 
 in src:
 
-**components:**
-
 - App.js
 - Todo.jsx
 - firebase.js
