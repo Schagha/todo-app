@@ -5,7 +5,7 @@ This application (**todo-app**) is built in React JS with a firebase backend and
 
 ## Source
 
-Based on a tutorial by code commerence chanel in Youtube [Tutorial](https://www.youtube.com/watch?v=drF8HbnW87w)
+Based on a tutorial by 'code commerence' channel in Youtube [Tutorial](https://www.youtube.com/watch?v=drF8HbnW87w)
 
 ### Architecture:
 
